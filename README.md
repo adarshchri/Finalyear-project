@@ -1,4 +1,4 @@
-# vue_movie_project
+# Moviegoggle
 
 ## Project setup
 
