@@ -315,7 +315,7 @@ export default {
     getGenres() {
       axios
         .get(
-          "https://api.themoviedb.org/3/genre/movie/list?api_key=a06cfa7f0853984e8a69e2db2fd1b8fd&language=en-US"
+          "https://api.themoviedb.org/3/genre/movie/list?api_key=3f713b362ad34a78305e2fbd42d24840&language=en-US"
         )
         .then((response) => {
           this.genres = response.data.genres;
