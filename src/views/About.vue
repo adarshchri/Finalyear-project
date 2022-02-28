@@ -104,7 +104,7 @@
                   object-cover object-center
                   mb-4
                 "
-                src="@/assets/image/yash.png"
+                src="@/assets/image/yash-1.jpeg"
               />
               <div class="w-full">
                 <h2 class="title-font text-lg text-gray-900 font-bold">
@@ -177,7 +177,7 @@
                   object-cover object-center
                   mb-4
                 "
-                src="https://dummyimage.com/203x203"
+                src="@/assets/image/parth.jpeg"
               />
               <div class="w-full">
                 <h2 class="title-font font-medium text-lg text-gray-900">
