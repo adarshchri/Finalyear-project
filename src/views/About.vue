@@ -26,7 +26,7 @@
                   object-cover object-center
                   mb-4
                 "
-                src="@/assets/image/Adarsh.jpg"
+                src="@/assets/image/ada.jpg"
               />
               <div class="w-full">
                 <h2
