@@ -110,9 +110,9 @@
                 <h2 class="title-font text-lg text-gray-900 font-bold">
                   Yash Kotiya
                 </h2>
-                <h3 class="text-gray-500 mb-3 font-medium">UI Developer</h3>
+                <h3 class="text-gray-500 mb-3 font-medium">UX Developer</h3>
                 <p class="mb-4">
-                  Yash is UI Develoer and very interesting mind set in the user
+                  Yash is UX Develoer and very interesting mind set in the user
                   interface designing.
                 </p>
                 <span class="inline-flex">
@@ -183,9 +183,9 @@
                 <h2 class="title-font font-medium text-lg text-gray-900">
                   Parth Chokshi
                 </h2>
-                <h3 class="text-gray-500 mb-3">UX Developer</h3>
+                <h3 class="text-gray-500 mb-3">UI Developer</h3>
                 <p class="mb-4">
-                  Path is UX Develoer and very interesting mind set in the user
+                  Path is UI Develoer and very interesting mind set in the user
                   experiance designing and he know
                   <span class="font-bold">HTML and CSS</span> very well.
                 </p>
